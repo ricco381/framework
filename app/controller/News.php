@@ -6,6 +6,6 @@ class News extends Controller
 {
     public function action_index()
     {
-        $this->router->addRules('2');
+        echo 'news';
     }
 }
