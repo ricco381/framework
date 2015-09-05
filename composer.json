@@ -1,0 +1,28 @@
+{
+    "name": "ricco/framework",
+    "description": "Framework Ricco",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Serhii Simchuk",
+            "email": "ricco381@gmail.com"
+        }
+    ],
+
+    "require": {
+        "ricco/core":"dev-master"
+    },
+
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/ricco381/core.git"
+        }
+    ],
+
+    "autoload":{
+        "psr-4": {
+            "web\\":"app/"
+        }
+    }
+}
