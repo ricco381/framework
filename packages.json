@@ -1,0 +1,16 @@
+{
+  "name": "ricco/framework",
+  "description": "Framework Ricco",
+  "version":"1.1",
+  "keywords": ["framework", "ricco"],
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/ricco381/framework.git",
+
+  "authors": [
+    {
+      "name": "Serhii Serhii",
+      "email": "ricco381@gmail.com"
+    }
+  ]
+}
