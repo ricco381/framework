@@ -24,5 +24,7 @@
         "psr-4": {
             "web\\":"app/"
         }
-    }
+    },
+
+    "minimum-stability": "dev"
 }
