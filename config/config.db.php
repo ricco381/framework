@@ -1,8 +1,8 @@
 <?php
 
 return $db = [
-        "host"     => "localhost",
-        "user"     => "root",
+        "host"     => "",
+        "user"     => "",
         "password" => "",
-        "db"       => "newmag"
+        "db"       => ""
 ];

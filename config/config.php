@@ -28,11 +28,11 @@ return $config = [
      * без косого слеша в конце "/"
      * Например http://example.com
      */
-    'host' => 'http://core',
+    'host' => '',
 
     /**
      * Email администратора
      */
-    'email' => 'ricco381@gmail.com',
+    'email' => '',
 
 ];
